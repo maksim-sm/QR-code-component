@@ -16,6 +16,8 @@
   background-color: hsl(0, 0%, 100%);
   display: flex;
   flex-direction: column;
+  width: 350px;
+  height: 500px;
 }
 
 body {
